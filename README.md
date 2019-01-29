@@ -61,7 +61,7 @@ transformers. I want to pick it up later and make them work properly with
 pipelines so that I can test various "automatic feature engineering" pipeline
 steps i.e. figure out a datetime thing to pull out of data, pick some variables
 and count with grouping by year/month/day of the week to test wether they can be
-used as features automatically and focus 
+used as features automatically and focus on some more interesting featuers.
 
 
 ### Matplotlib
