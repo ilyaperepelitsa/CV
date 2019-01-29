@@ -45,7 +45,7 @@ hyperparameter approach with no feature engineering. It's gonna be the next
 step. Generally I like L1 and L2 regressions a lot - one of the most naturally
 interpretable parameter output to explain and visualize.
 
-* MNIST - scored top 25% (initial 22%). Bayesian Ridge worked
+* MNIST - scored top 25% (initial 22%) with 99.4% a. Bayesian Ridge worked
 in this case but there's more room for improvement - I was testing raw
 hyperparameter approach with no feature engineering. It's gonna be the next
 step. Generally I like L1 and L2 regressions a lot - one of the most naturally
