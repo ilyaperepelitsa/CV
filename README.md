@@ -74,7 +74,7 @@ convolutional weights as well but something went wrong and instead of a weights
 array I got a vector of pixels from convolutional layers (which is very odd but
 I couldn't find how to fix it at the time). Planning to check that in more
 advanced kaggle competitions when I get to the CV NN book. Most recent file
-conceptually I think 
+conceptually I think is keras_func_replica_imagenet_inception.py
 
 * Common learning - I started putting together some basic sklearn custom
 transformers. I want to pick it up later and make them work properly with
