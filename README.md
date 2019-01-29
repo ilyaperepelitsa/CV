@@ -11,4 +11,4 @@ chrome. All relevant points will be presented in the general overview
 
 
 ## Scraping projects
-Bulk of my work deals with scraping - 
+Bulk of my work deals with scraping - I love getting to visualizations and 
