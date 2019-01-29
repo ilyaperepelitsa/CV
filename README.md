@@ -103,7 +103,7 @@ resources.
 class is called "Transforming data" and the assignment was "to make a clock". I
 thought I could reflect I see time - as waves rushing through things, strip the
 clock of its basic functionality and have some fun with custom increasing decay
-transformations with basic javascrup
+transformations with basic javascript arrays. It was great t 
 
 
 ### GIS Projects
