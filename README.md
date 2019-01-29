@@ -52,7 +52,8 @@ replicated the same models in Keras and moved on to parodies of reliable
 academic models with the intention of "being able to construct any convolutional
 architecture". Attached - all the files of tested architectures with some
 hyperparameters preserved in the json file. Some later models were lost (they're
-)on my iMac in Vladivostok) - the folder wasn't "githubbable" - I was saving 
+)on my iMac in Vladivostok) - the folder wasn't "githubbable" - I was saving all
+the logs and weights
 
 
 ### Matplotlib
