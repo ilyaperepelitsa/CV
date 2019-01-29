@@ -50,7 +50,7 @@ worked is a combo of Imagenet and Inception models working in parallel, very
 small replicas (number of inception layers in particular). Started with TF,
 replicated the same models in Keras and moved on to parodies of reliable
 academic models with the intention of "being able to construct any convolutional
-architecture"
+architecture". 
 
 
 ### Matplotlib
