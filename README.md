@@ -104,7 +104,7 @@ class is called "Transforming data" and the assignment was "to make a clock". I
 thought I could reflect I see time - as waves rushing through things, strip the
 clock of its basic functionality and have some fun with custom increasing decay
 transformations with basic javascript arrays. It was great to practice both
-array t
+array maths and see it manifest itself visuall
 
 
 ### GIS Projects
