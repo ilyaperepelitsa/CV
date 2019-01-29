@@ -21,7 +21,7 @@ scale (cover letter generator, submission scripts, maybe even resume generator
 that, similar to cover letter generator, makes ones based on the match of
 relevant skills and job description). More advanced features are coming after I
 finish with my React.js adventures.
-* FERC_DOC_TRAIL - a contract job that I did for these wonde
+* FERC_DOC_TRAIL - a contract job that I did for these wonderful people%
 * We created a tool that is hopefully very useful for you. The rest is your responsibility.
 If you choose to be intrusive and disrespectful - it is your choice and not ours.
 * Our default download delay is set to **3 seconds** - this will get you about a GB
