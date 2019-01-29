@@ -37,7 +37,7 @@ stuff. Please take your own risk on what PDFs are evil and what you download.
 
 ### kaggle
 Most recently I've only had a chance of playing with sklearn on some job
-application test assignments
+application test assignments so I 
 * Python graphs - I started putting together some boilerplate for graphs.
 Initiated a boxplot graph function that accepts arguments to determine how to
 order boxes - some usual i.e. by median, mean and some more interesting - by
