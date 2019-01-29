@@ -1,7 +1,8 @@
 # CV
 Ilya Perepelitsa
 
-[VzPI](https://github.com/VzPI)
+[My kaggle profile](https://github.com/VzPI)
+[My temporary ](https://github.com/VzPI)
 https://www.kaggle.com/ilyaperepelitsa/competitions
 
 https://rf2d.wordpress.com
