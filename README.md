@@ -16,7 +16,8 @@ tell you what libraries I use frequently but that has to be the extent. Not only
 such disclosure would be a breach of confidentiality (formally signed or
 "general blanket"), it would also be disrespectful to my colleagues and
 supervisors. Again, sorry.
-* Credentials - I'm frequently using a "credentials" module that I made
+* Credentials - I'm frequently using a "credentials" module that I made. It
+holds my RDS
 
 
 ## Contents
