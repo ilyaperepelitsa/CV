@@ -132,4 +132,5 @@ it's not in "the system" - why not account for it and add it.
 The project is in progress - I'm still learning React and I wanted to share my
 progress in code. You won't run it easily cause of credentials but you can see
 that I advanced to modular React components (and dropping in some stateless JS
-objects to lighten up the code). Next topic to stud
+objects to lighten up the code). Next topic to study - redux. I'm relying
+heabily 
