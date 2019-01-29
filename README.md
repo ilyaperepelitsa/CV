@@ -122,4 +122,4 @@ share it.
 This is very random. I'm learning React - I was initially learning Django but I
 embraced the Django - Rest webapp concept - can pack so much more into them and
 have no weird transitions between pages (sorry, I don't wanna learn AJAX for
-this)
+this). Eventual
