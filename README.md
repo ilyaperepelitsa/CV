@@ -32,4 +32,4 @@ is a community tool project for downloading them. Published
 [here](https://github.com/ilyaperepelitsa/met_book_downloader), got some support
 from people for it.
 * Intercept - Intercept had a dump of documents with some semi-confidential
-stuff. Please take your own 
+stuff. Please take your own risk on what PDFs are evil and what you 
