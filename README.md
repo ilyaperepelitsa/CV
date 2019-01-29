@@ -55,7 +55,7 @@ hyperparameters preserved in the json file. Some later models were lost (they're
 the logs and weights in order to be able to restart the training by pickling
 them and not do it from scratch.
 Some of the more advanced code might be missing. The furthest I got to with
-keras is pickling the model weights, writing logs, 
+keras is pickling the model weights, writing logs, model 
 
 * Common learning - I started putting together some basic sklearn custom
 transformers. I want to pick it up later and make them work properly with
