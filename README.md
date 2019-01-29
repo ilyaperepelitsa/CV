@@ -100,7 +100,8 @@ photos, got 82 clean "follow-backs" and visualized it in a processing graph.
 Initially wanted to run some ML and write a proper bot but ran out of time and
 resources.
 * The most useless clock - I made a clock using p5.js as a student project. The
-class is called "Transforming data" and the assignment was "to make a clock"
+class is called "Transforming data" and the assignment was "to make a clock". I
+th
 
 
 ### GIS Projects
