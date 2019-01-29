@@ -78,4 +78,5 @@ unusual pyplot visualizations like table graphs etc.
 link](https://ilyaperepelitsa.github.io/graph/). I made a Selenium-based
 instagram bot that followed thousands of people and liked a bunch of their
 photos, got 82 clean "follow-backs" and visualized it in a processing graph.
-Initially wanted to run some ML and write a proper bot but ran 
+Initially wanted to run some ML and write a proper bot but ran out of time and
+resources.
