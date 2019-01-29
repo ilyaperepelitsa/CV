@@ -40,7 +40,7 @@ Most recently I've only had a chance of playing with sklearn on some job
 application test assignments so I pushed myself to start submitting some basic
 stuff on kaggle. Below - AMNES housing dataset and MNIST (keras and TF).
 * AMNES - scored top 36% (the last version I could find). Bayesian Ridge worked
-in this case but there's more 
+in this case but there's more room for improvement - 
 
 ### Matplotlib
 * Python graphs - I started putting together some boilerplate for graphs.
