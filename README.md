@@ -37,4 +37,4 @@ stuff. Please take your own risk on what PDFs are evil and what you download.
 
 
 ### Scraping projects
-* Python graphs - I started putting together some boilerplate for g
+* Python graphs - I started putting together some boilerplate for graphs. I
