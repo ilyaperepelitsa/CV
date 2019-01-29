@@ -105,7 +105,7 @@ thought I could reflect I see time - as waves rushing through things, strip the
 clock of its basic functionality and have some fun with custom increasing decay
 transformations with basic javascript arrays. It was great to practice both
 array maths and see it manifest itself visually (visual manifestation of math
-yay). I
+yay). It's a simple l
 
 
 ### GIS Projects
