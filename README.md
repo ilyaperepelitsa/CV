@@ -60,7 +60,7 @@ there is improvement in test accuracy/loss. I tried playing with outputting
 convolutional weights as well but something went wrong and instead of a weights
 array I got a vector of pixels from convolutional layers (which is very odd but
 I couldn't find how to fix it at the time). Planning to check that in more
-advanced kaggle competitions when I get to 
+advanced kaggle competitions when I get to the CV NN book.
 
 * Common learning - I started putting together some basic sklearn custom
 transformers. I want to pick it up later and make them work properly with
@@ -86,3 +86,6 @@ instagram bot that followed thousands of people and liked a bunch of their
 photos, got 82 clean "follow-backs" and visualized it in a processing graph.
 Initially wanted to run some ML and write a proper bot but ran out of time and
 resources.
+
+
+### 
