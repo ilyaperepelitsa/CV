@@ -37,4 +37,4 @@ stuff. Please take your own risk on what PDFs are evil and what you download.
 
 
 ### Scraping projects
-* Python 
+* Python graphs
