@@ -129,4 +129,5 @@ correspond to specific values, assign tasks to goals and create tracker
 instances for monitoring how I'm doing on the goals. The general idea is to
 record things that I do - if I'm doing something - it has to lead somewhere, if
 it's not in "the system" - why not account for it and add it.
-The project is in progress - I'm still learning React and I wanted to share m
+The project is in progress - I'm still learning React and I wanted to share my
+progress in code. 
