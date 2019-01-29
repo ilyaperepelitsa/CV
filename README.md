@@ -29,4 +29,5 @@ construction in the U.S. It's a part of the repository, can be found here:
 really be discussing them. Two sources at the moment, work in progress
 * Met Book downloader - Metropolitan museum published some books for free. This
 is a community tool project for downloading them. Published
-[here](https://github.com/ilyaperepelitsa/met_book_downloader), got some s
+[here](https://github.com/ilyaperepelitsa/met_book_downloader), got some support
+from people for it.
