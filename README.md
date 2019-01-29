@@ -16,7 +16,7 @@ but in so many cases you're just swamped with data collection and Data
 Engineering matters (spinning databases, dealing with schemas etc.)
 ### Legal
 * Dataslap jobs - a job aggregator that I plan to launch as a service for slow
-gathering of Glassdoor jobs and putting together 
+gathering of Glassdoor jobs and putting together tools for job applications
 * Scrape responsibly - if you actually end up costing a significant amount of money
 for server processing time you can be liable for the damages. We recommend not to get
 close to the situation when the owner of the site has to ask themselves "Is what
