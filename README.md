@@ -35,7 +35,7 @@ from people for it.
 * Intercept - Intercept had a dump of documents with some semi-confidential
 stuff. Please take your own risk on what PDFs are evil and what you download.
 
-### Matplotlib
+### kaggle
 * Python graphs - I started putting together some boilerplate for graphs.
 Initiated a boxplot graph function that accepts arguments to determine how to
 order boxes - some usual i.e. by median, mean and some more interesting - by
