@@ -27,7 +27,7 @@ that I did when I was going through rough times. I can be extremely formal at
 times, informal at times too, I hope you can understand that.
 * Some projects listed here have very little to deal with Data Science. It's by
 intention. Some people say that they have personal projects and describe them.
-I'm showing you the code. With grap
+I'm showing you the code. With graphs sometimes (I really do love )
 
 
 ## Contents
