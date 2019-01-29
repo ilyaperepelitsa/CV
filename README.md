@@ -22,7 +22,8 @@ that, similar to cover letter generator, makes ones based on the match of
 relevant skills and job description). More advanced features are coming after I
 finish with my React.js adventures.
 * FERC_DOC_TRAIL - a contract job that I did for these wonderful people:
-[VzPI](https://github.com/VzPI) - a set of tools for monitoring pipeline co
+[VzPI](https://github.com/VzPI) - a set of tools for monitoring pipeline
+construction in the U.S.
 
 * We created a tool that is hopefully very useful for you. The rest is your responsibility.
 If you choose to be intrusive and disrespectful - it is your choice and not ours.
