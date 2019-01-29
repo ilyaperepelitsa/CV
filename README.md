@@ -41,7 +41,7 @@ application test assignments so I pushed myself to start submitting some basic
 stuff on kaggle. Below - AMNES housing dataset and MNIST (keras and TF).
 * AMNES - scored top 36% (the last version I could find). Bayesian Ridge worked
 in this case but there's more room for improvement - I was testing raw
-hyperparameter approach with no feature engineering. It's u
+hyperparameter approach with no feature engineering. It's gonna be
 
 ### Matplotlib
 * Python graphs - I started putting together some boilerplate for graphs.
