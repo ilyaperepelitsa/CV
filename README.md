@@ -106,7 +106,7 @@ clock of its basic functionality and have some fun with custom increasing decay
 transformations with basic javascript arrays. It was great to practice both
 array maths and see it manifest itself visually (visual manifestation of math
 yay). Smallest wave is seconds, biggest - hours. You can view it by opening the
-index.html 
+index.html in your chrome browser.
 
 
 ### GIS Projects
