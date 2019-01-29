@@ -13,7 +13,7 @@ chrome. All relevant points will be presented in the general overview
 
 * Sorry but I can't share my current code at the place of employment. I might
 tell you what libraries I use frequently but that has to be the extent. Not only
-such disclosure would be a breach of confidentiality (signed )
+such disclosure would be a breach of confidentiality (formally s)
 
 
 ## Contents
