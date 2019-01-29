@@ -74,4 +74,6 @@ unusual pyplot visualizations like table graphs etc.
 
 
 ### P5.js projects
-* Instagram bot - 
+* Instagram bot - available at
+
+https://ilyaperepelitsa.github.io/graph/
