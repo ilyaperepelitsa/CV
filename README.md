@@ -14,8 +14,8 @@ chrome. All relevant points will be presented in the general overview
 Bulk of my work deals with scraping - I love getting to visualizations and ML
 but in so many cases you're just swamped with data collection and Data
 Engineering matters (spinning databases, dealing with schemas etc.)
-## Legal
-* Scraping is legal
+### Legal
+* Dataslap job
 * Scrape responsibly - if you actually end up costing a significant amount of money
 for server processing time you can be liable for the damages. We recommend not to get
 close to the situation when the owner of the site has to ask themselves "Is what
