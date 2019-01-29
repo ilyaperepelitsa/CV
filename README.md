@@ -18,7 +18,7 @@ such disclosure would be a breach of confidentiality (formally signed or
 supervisors. Again, sorry.
 * Credentials - I'm frequently using a "credentials" module that I made. It
 holds my AWS RDS passwords and stuff like admin email for Dataslap, private keys
-for EC2. I dl
+for EC2. I deleted all of it 
 
 
 ## Contents
