@@ -25,4 +25,5 @@ finish with my React.js adventures.
 [VzPI](https://github.com/VzPI) - a set of tools for monitoring pipeline
 construction in the U.S. It's a part of the repository, can be found here:
 [FERC DOC part](https://github.com/VzPI/FERC_DOC_TRAIL)
-* snew - news (yep, puns) aggregator. Started with a few sources, sh
+* snew - news (yep, puns) aggregator. Started with a few sources, shouldn't
+really be discuss
