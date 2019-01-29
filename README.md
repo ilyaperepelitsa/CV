@@ -3,6 +3,8 @@ Ilya Perepelitsa
 
 https://www.kaggle.com/ilyaperepelitsa/competitions
 
+https://rf2d.wordpress.com
+
 ## Description
 
 A few collected highlights of my work in python, JS and Carto are collected
