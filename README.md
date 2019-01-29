@@ -42,7 +42,8 @@ stuff on kaggle. Below - AMNES housing dataset and MNIST (keras and TF).
 * AMNES - scored top 36% (the last version I could find). Bayesian Ridge worked
 in this case but there's more room for improvement - I was testing raw
 hyperparameter approach with no feature engineering. It's gonna be the next
-step. Generally I like L1 and L2 regressions a lot - one of the most naturall
+step. Generally I like L1 and L2 regressions a lot - one of the most naturally
+interpretable parameter output to
 
 ### Matplotlib
 * Python graphs - I started putting together some boilerplate for graphs.
