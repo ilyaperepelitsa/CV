@@ -89,4 +89,4 @@ resources.
 
 
 ### GIS Projects
-* Traffic i
+* Traffic accidents map - a Carto map with some
