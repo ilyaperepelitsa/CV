@@ -77,4 +77,4 @@ unusual pyplot visualizations like table graphs etc.
 * Instagram bot - available at [this
 link](https://ilyaperepelitsa.github.io/graph/). I made a Selenium-based
 instagram bot that followed thousands of people and liked a bunch of their
-photos, got 82 clean "fo"
+photos, got 82 clean "follow-backs"
