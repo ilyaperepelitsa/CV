@@ -102,7 +102,7 @@ resources.
 * The most useless clock - I made a clock using p5.js as a student project. The
 class is called "Transforming data" and the assignment was "to make a clock". I
 thought I could reflect I see time - as waves rushing through things, strip the
-clock of its basic functionality and have some fun with 
+clock of its basic functionality and have some fun with custom 
 
 
 ### GIS Projects
