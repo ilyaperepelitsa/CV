@@ -1,6 +1,7 @@
 # CV
 Ilya Perepelitsa
 
+https://www.kaggle.com/ilyaperepelitsa/competitions
 
 ## Description
 
