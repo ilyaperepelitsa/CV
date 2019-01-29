@@ -56,7 +56,8 @@ the logs and weights in order to be able to restart the training by pickling
 them and not do it from scratch.
 Some of the more advanced code might be missing. The furthest I got to with
 keras is pickling the model weights, writing logs, model saving weights only if
-there is improvement in test accuracy/loss. I tried playing with outputting 
+there is improvement in test accuracy/loss. I tried playing with outputting
+convolutional weights as well but some
 
 * Common learning - I started putting together some basic sklearn custom
 transformers. I want to pick it up later and make them work properly with
