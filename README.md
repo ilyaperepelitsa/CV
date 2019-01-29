@@ -53,7 +53,7 @@ academic models with the intention of "being able to construct any convolutional
 architecture". Attached - all the files of tested architectures with some
 hyperparameters preserved in the json file. Some later models were lost (they're
 )on my iMac in Vladivostok) - the folder wasn't "githubbable" - I was saving all
-the logs and weights in order to be able to restart t
+the logs and weights in order to be able to restart the training 
 
 
 ### Matplotlib
