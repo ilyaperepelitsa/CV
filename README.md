@@ -26,7 +26,7 @@ projects that I'm deeply passionate about including some very personal projects
 that I did when I was going through rough times. I can be extremely formal at
 times, informal at times too, I hope you can understand that.
 * Some projects listed here have very little to deal with Data Science. It's by
-inten
+intention. Some people say that the
 
 
 ## Contents
