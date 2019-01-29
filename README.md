@@ -36,10 +36,11 @@ from people for it.
 stuff. Please take your own risk on what PDFs are evil and what you download.
 
 
+
 ### Matplotlib
 * Python graphs - I started putting together some boilerplate for graphs.
 Initiated a boxplot graph function that accepts arguments to determine how to
 order boxes - some usual i.e. by median, mean and some more interesting - by
 interquartile range. Also some color palette code that gets imported. I want to
 grow the basic graphs part of the library as well as explore some of the more
-unusual pyplot visualizations like table graphs etc. 
+unusual pyplot visualizations like table graphs etc.
