@@ -23,11 +23,4 @@ relevant skills and job description). More advanced features are coming after I
 finish with my React.js adventures.
 * FERC_DOC_TRAIL - a contract job that I did for these wonderful people:
 [VzPI](https://github.com/VzPI) - a set of tools for monitoring pipeline
-construction in the U.S.
-
-* We created a tool that is hopefully very useful for you. The rest is your responsibility.
-If you choose to be intrusive and disrespectful - it is your choice and not ours.
-* Our default download delay is set to **3 seconds** - this will get you about a GB
-of documents in an hour. That's a GB of PDF files, DOC files and images. It isn't
-likely that you're going to process all the documents in a day, don't bee greedy
-and opt in for longer delays, be realistic and respectful.
+construction in the U.S. I/
