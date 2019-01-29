@@ -37,6 +37,4 @@ stuff. Please take your own risk on what PDFs are evil and what you download.
 
 
 ### Scraping projects
-* Dataslap jobs - a job aggregator that I plan to launch as a service for slow
-gathering of Glassdoor jobs and putting together tools for job applications on a
-scale (cover letter generator,
+* Python 
