@@ -24,3 +24,4 @@ finish with my React.js adventures.
 * FERC_DOC_TRAIL - a contract job that I did for these wonderful people:
 [VzPI](https://github.com/VzPI) - a set of tools for monitoring pipeline
 construction in the U.S. It's a part of the repository, can be found here:
+[VzPI](https://github.com/VzPI)
