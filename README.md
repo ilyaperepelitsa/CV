@@ -19,7 +19,8 @@ Engineering matters (spinning databases, dealing with schemas etc.)
 gathering of Glassdoor jobs and putting together tools for job applications on a
 scale (cover letter generator, submission scripts, maybe even resume generator
 that, similar to cover letter generator, makes ones based on the match of
-relevant skills and job description). More advanced feature
+relevant skills and job description). More advanced features are coming after I
+pol
 * Scrape responsibly - if you actually end up costing a significant amount of money
 for server processing time you can be liable for the damages. We recommend not to get
 close to the situation when the owner of the site has to ask themselves "Is what
