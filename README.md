@@ -9,6 +9,13 @@ here.
 Some of the projects are pure code, some come with an html that one can open in
 chrome. All relevant points will be presented in the general overview
 
+## Ge
+
+A few collected highlights of my work in python, JS and Carto are collected
+here.
+Some of the projects are pure code, some come with an html that one can open in
+chrome. All relevant points will be presented in the general overview
+
 
 ## Contents
 Bulk of my work deals with scraping - I love getting to visualizations and ML
@@ -92,4 +99,5 @@ resources.
 * Traffic accidents map - a Carto map with some simple jquery (I would probably
 use React now) that filters the input data and outputs only that filtered data
 on the map and calculates some basic stats (count of people killed and injured).
-I had some leaflet.js experiments for my final project but I'm too embar
+I had some leaflet.js experiments for my final project but I'm too embarassed to
+share it.
