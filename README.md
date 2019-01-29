@@ -89,4 +89,4 @@ resources.
 
 
 ### GIS Projects
-* Traffic accidents map - a Carto map with some
+* Traffic accidents map - a Carto map with some simple jquery (I would )
