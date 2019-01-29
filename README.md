@@ -39,11 +39,7 @@ stuff. Please take your own risk on what PDFs are evil and what you download.
 Most recently I've only had a chance of playing with sklearn on some job
 application test assignments so I pushed myself to start submitting some basic
 stuff on kaggle. Below - AMNES housing dataset and MNIST (keras and TF).
-* Python graphs - I started putting together some boilerplate for graphs.
-Initiated a boxplot graph function that accepts arguments to determine how to
-order boxes - some usual i.e. by median, mean and some more interesting - by
-interquartile range. Also some color palette code that gets imported. I want to
-grow the basic gr
+* AMNES - sc
 
 ### Matplotlib
 * Python graphs - I started putting together some boilerplate for graphs.
