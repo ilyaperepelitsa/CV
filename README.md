@@ -127,4 +127,5 @@ this). Eventually I want to add D3 to the stack.
 The purpose of the app - create values that are important to me, span goals that
 correspond to specific values, assign tasks to goals and create tracker
 instances for monitoring how I'm doing on the goals. The general idea is to
-record things that I do - if I'm doing something - it has to leas
+record things that I do - if I'm doing something - it has to lead somewhere, if
+it
