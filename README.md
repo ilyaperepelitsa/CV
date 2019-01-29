@@ -91,4 +91,4 @@ resources.
 ### GIS Projects
 * Traffic accidents map - a Carto map with some simple jquery (I would probably
 use React now) that filters the input data and outputs only that filtered data
-on the map and calculates some basi
+on the map and calculates some basic stats (count)
