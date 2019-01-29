@@ -19,7 +19,7 @@ supervisors. Again, sorry.
 * Credentials - I'm frequently using a "credentials" module that I made. It
 holds my AWS RDS passwords and stuff like admin email for Dataslap, private keys
 for EC2. I deleted all of it prior to initializing a repository so there is also
-no trace of it here in c
+no trace of it here in commits. Don't waste your time
 
 
 ## Contents
