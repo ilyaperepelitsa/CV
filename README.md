@@ -2,8 +2,8 @@
 Ilya Perepelitsa
 
 [My kaggle profile](https://github.com/VzPI)
-[My temporary ](https://github.com/VzPI)
-https://www.kaggle.com/ilyaperepelitsa/competitions
+[My temporary portfolio](https://github.com/VzPI)
+
 
 https://rf2d.wordpress.com
 
