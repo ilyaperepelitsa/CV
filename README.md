@@ -19,7 +19,8 @@ supervisors. Again, sorry.
 * Credentials - I'm frequently using a "credentials" module that I made. It
 holds my AWS RDS passwords and stuff like admin email for Dataslap, private keys
 for EC2. I deleted all of it prior to initializing a repository so there is also
-no trace of it here in commits. Don't waste your time. I also deleted pycache 
+no trace of it here in commits. Don't waste your time. I also deleted pycache
+just in case.
 
 
 ## Contents
@@ -98,6 +99,7 @@ instagram bot that followed thousands of people and liked a bunch of their
 photos, got 82 clean "follow-backs" and visualized it in a processing graph.
 Initially wanted to run some ML and write a proper bot but ran out of time and
 resources.
+* 
 
 
 ### GIS Projects
