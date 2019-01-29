@@ -90,4 +90,4 @@ resources.
 
 ### GIS Projects
 * Traffic accidents map - a Carto map with some simple jquery (I would probably
-use )
+use React now) that filters 
