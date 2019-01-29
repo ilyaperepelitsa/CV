@@ -11,7 +11,7 @@ chrome. All relevant points will be presented in the general overview
 
 ## General info
 
-*
+* Sorry but I can't s
 
 
 ## Contents
