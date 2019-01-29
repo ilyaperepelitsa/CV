@@ -18,7 +18,8 @@ Engineering matters (spinning databases, dealing with schemas etc.)
 * Dataslap jobs - a job aggregator that I plan to launch as a service for slow
 gathering of Glassdoor jobs and putting together tools for job applications on a
 scale (cover letter generator, submission scripts, maybe even resume generator
-that, similar to cover letter generator, makes ones base)
+that, similar to cover letter generator, makes ones based on the match of
+relevant skill)
 * Scrape responsibly - if you actually end up costing a significant amount of money
 for server processing time you can be liable for the damages. We recommend not to get
 close to the situation when the owner of the site has to ask themselves "Is what
