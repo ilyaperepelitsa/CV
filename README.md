@@ -54,7 +54,9 @@ architecture". Attached - all the files of tested architectures with some
 hyperparameters preserved in the json file. Some later models were lost (they're
 )on my iMac in Vladivostok) - the folder wasn't "githubbable" - I was saving all
 the logs and weights in order to be able to restart the training by pickling
-them and not do it from
+them and not do it from scratch.
+
+*
 
 
 ### Matplotlib
