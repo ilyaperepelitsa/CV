@@ -27,4 +27,5 @@ construction in the U.S. It's a part of the repository, can be found here:
 [FERC DOC part](https://github.com/VzPI/FERC_DOC_TRAIL)
 * snew - news (yep, puns) aggregator. Started with a few sources, shouldn't
 really be discussing them. Two sources at the moment, work in progress
-* Met Book downloader - Metropolitan museum published some books for free
+* Met Book downloader - Metropolitan museum published some books for free. This
+is a commu
