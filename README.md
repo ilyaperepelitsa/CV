@@ -61,10 +61,10 @@ transformers. I want to pick it up later and make them work properly with
 pipelines so that I can test various "automatic feature engineering" pipeline
 steps i.e. figure out a datetime thing to pull out of data, pick some variables
 and count with grouping by year/month/day of the week to test wether they can be
-used as features automatically and focus on some more interesting featuers.
+used as features automatically and focus on some more interesting features.
 
 
-### Matplotlib
+### Python gr
 * Python graphs - I started putting together some boilerplate for graphs.
 Initiated a boxplot graph function that accepts arguments to determine how to
 order boxes - some usual i.e. by median, mean and some more interesting - by
