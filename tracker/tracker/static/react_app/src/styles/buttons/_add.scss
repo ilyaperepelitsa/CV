@@ -1,0 +1,26 @@
+@import "./variables/colors";
+
+.addButton {
+    width: 2rem;
+    height: 2rem;
+    margin: 2px;
+    padding: 1px;
+    fill: $base_button;
+    &:hover path {
+      cursor: pointer;
+      fill: $green_button;
+    }
+
+}
+
+.addButtonSelected {
+    width: 2rem;
+    height: 2rem;
+    margin: 2px;
+    padding: 1px;
+    fill: $green_button;
+    &:hover path {
+      cursor: pointer;
+      fill: $base_button;
+    }
+}

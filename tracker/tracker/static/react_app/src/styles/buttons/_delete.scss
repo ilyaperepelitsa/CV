@@ -1,0 +1,14 @@
+@import "./variables/colors";
+
+.deleteButton {
+    width: 2rem;
+    height: 2rem;
+    margin: 2px;
+    padding: 1px;
+    fill: $red_button_light;
+    &:hover path {
+      cursor: pointer;
+      fill: $red_button_dark;
+    }
+
+}

@@ -1,0 +1,15 @@
+
+@import "./variables/colors";
+
+.closeButton {
+    width: 2rem;
+    height: 2rem;
+    margin: 2px;
+    padding: 1px;
+    fill: $base_button;
+    &:hover path {
+      cursor: pointer;
+      fill: $red_button_light;
+    }
+
+}

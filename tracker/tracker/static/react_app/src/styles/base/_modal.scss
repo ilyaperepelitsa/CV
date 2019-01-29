@@ -1,0 +1,58 @@
+.ReactModalPortal > div{
+  opacity: 0;
+}
+
+.ReactModalPortal .container{
+  max-width: 30rem;
+  max-height: 25rem;
+  margin-right: 1px;
+  margin-left: 1px;
+}
+
+.modal {
+
+   max-width: 30rem;
+   max-height: 25rem;
+   margin: auto;
+   margin-top: 10rem;
+  }
+
+.ReactModalPortal .ReactModal__Overlay{
+
+  transition: opacity 200ms ease-in-out;
+
+}
+
+.ReactModalPortal .ReactModal__Overlay--after-open{
+
+  opacity: 1;
+}
+
+.ReactModal__Body--open {
+    overflow: hidden;
+}
+
+.ReactModal__Content--after-open{
+  display:inline-block;
+}
+
+@media (max-width: 45rem){
+  .ReactModalPortal .container {
+     max-width: 80%;
+     max-height: 45rem;
+     display:inline-block;
+    }
+
+  .modal {
+     max-height: none;
+     margin: auto;
+     align-items: center;
+     display: flex;
+     justify-content: center;
+    }
+}
+
+// .React_Modal__Content element.style {
+//
+//   max-width: 35rem;
+// }

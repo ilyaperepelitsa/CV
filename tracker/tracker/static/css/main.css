@@ -1,0 +1,21 @@
+.clearfix >.col > p {
+    vertical-align: middle;
+    margin-bottom: 0;
+}
+
+.delete-button-in-clearfix  {
+    padding: 0;
+}
+
+/* .clearfix  {
+    color: : #6e7b91;
+} */
+
+
+
+
+
+/* .addButton {
+  max-width: 100%;
+  color: blue;
+} */

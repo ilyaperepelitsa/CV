@@ -116,3 +116,11 @@ use React now) that filters the input data and outputs only that filtered data
 on the map and calculates some basic stats (count of people killed and injured).
 I had some leaflet.js experiments for my final project but I'm too embarassed to
 share it.
+
+
+### GIS Projects
+* Traffic accidents map - a Carto map with some simple jquery (I would probably
+use React now) that filters the input data and outputs only that filtered data
+on the map and calculates some basic stats (count of people killed and injured).
+I had some leaflet.js experiments for my final project but I'm too embarassed to
+share it.

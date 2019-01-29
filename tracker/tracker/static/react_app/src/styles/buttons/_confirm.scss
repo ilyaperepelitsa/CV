@@ -1,0 +1,14 @@
+@import "./variables/colors";
+
+.confirmButton {
+    width: 2rem;
+    height: 2rem;
+    margin: 2px;
+    padding: 1px;
+    fill: $function_button;
+    &:hover path {
+      cursor: pointer;
+      fill: $green_button;
+    }
+
+}

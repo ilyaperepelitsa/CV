@@ -1,0 +1,14 @@
+@import "./variables/colors";
+
+.discardButton {
+    width: 2rem;
+    height: 2rem;
+    margin: 2px;
+    padding: 1px;
+    fill: $function_button;
+    &:hover path {
+      cursor: pointer;
+      fill: $red_button_light;
+    }
+
+}
