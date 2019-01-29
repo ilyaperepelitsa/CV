@@ -14,7 +14,7 @@ chrome. All relevant points will be presented in the general overview
 Bulk of my work deals with scraping - I love getting to visualizations and ML
 but in so many cases you're just swamped with data collection and Data
 Engineering matters (spinning databases, dealing with schemas etc.)
-### Legal
+### Scraping pr
 * Dataslap jobs - a job aggregator that I plan to launch as a service for slow
 gathering of Glassdoor jobs and putting together tools for job applications on a
 scale (cover letter generator, submission scripts, maybe even resume generator
@@ -32,4 +32,4 @@ is a community tool project for downloading them. Published
 [here](https://github.com/ilyaperepelitsa/met_book_downloader), got some support
 from people for it.
 * Intercept - Intercept had a dump of documents with some semi-confidential
-stuff. Please take your own risk on what PDFs are evil and what you 
+stuff. Please take your own risk on what PDFs are evil and what you download.
