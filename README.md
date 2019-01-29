@@ -12,7 +12,8 @@ chrome. All relevant points will be presented in the general overview
 ## General info
 
 * Sorry but I can't share my current code at the place of employment. I might
-tell you what libraries I use frequently but that has to be the 
+tell you what libraries I use frequently but that has to be the extent. Not only
+
 
 
 ## Contents
