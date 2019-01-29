@@ -54,7 +54,7 @@ hyperparameters preserved in the json file. Some later models were lost (they're
 )on my iMac in Vladivostok) - the folder wasn't "githubbable" - I was saving all
 the logs and weights in order to be able to restart the training by pickling
 them and not do it from scratch.
-Some of the more advanced code might be missing. The 
+Some of the more advanced code might be missing. The furthest I got to w
 
 * Common learning - I started putting together some basic sklearn custom
 transformers. I want to pick it up later and make them work properly with
