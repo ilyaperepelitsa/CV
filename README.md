@@ -48,7 +48,8 @@ interpretable parameter output to explain and visualize.
 * MNIST - scored top 25% (initial 22%) with 99.4% accuracy. The model that
 worked is a combo of Imagenet and Inception models working in parallel, very
 small replicas (number of inception layers in particular). Started with TF,
-replicated the same models in Keras and moved on to parodies of reliable acad
+replicated the same models in Keras and moved on to parodies of reliable
+academic models with the intention
 
 
 ### Matplotlib
