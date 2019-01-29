@@ -43,7 +43,7 @@ stuff on kaggle. Below - AMNES housing dataset and MNIST (keras and TF).
 in this case but there's more room for improvement - I was testing raw
 hyperparameter approach with no feature engineering. It's gonna be the next
 step. Generally I like L1 and L2 regressions a lot - one of the most naturally
-interpretable parameter output to
+interpretable parameter output to explain and visualize.
 
 ### Matplotlib
 * Python graphs - I started putting together some boilerplate for graphs.
