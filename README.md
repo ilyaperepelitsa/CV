@@ -23,7 +23,7 @@ no trace of it here in commits. Don't waste your time. I also deleted pycache
 just in case.
 * Disclaimer - I'm using somewhat informal language here cause I'm sharing
 projects that I'm deeply passionate about including some very personal projects
-that I 
+that I did when I was going through rough times. So
 
 
 ## Contents
