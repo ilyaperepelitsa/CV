@@ -38,4 +38,5 @@ stuff. Please take your own risk on what PDFs are evil and what you download.
 
 ### Scraping projects
 * Python graphs - I started putting together some boilerplate for graphs.
-Initiated a boxplot graph function that accepts arguments to determine 
+Initiated a boxplot graph function that accepts arguments to determine how to
+order boxes 
