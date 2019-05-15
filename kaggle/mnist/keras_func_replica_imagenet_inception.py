@@ -421,9 +421,7 @@ h = model.fit_generator(datagen.flow(x_train,y_train,
 y_pred = model.predict(x_test)
 Y_pred_classes = np.argmax(y_pred, axis = 1)
 Y_true = np.argmax(y_test.values, axis = 1)
-# Y_true
-# Y_true
-# Y_pred_classes
+
 confusion_mtx = confusion_matrix(Y_true, Y_pred_classes)
 plot_confusion_matrix(confusion_mtx, classes = range(10))
 
