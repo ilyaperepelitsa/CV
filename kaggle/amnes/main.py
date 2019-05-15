@@ -76,10 +76,9 @@ x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2, random_
 
 
 def replace_never_seen_values(train, test):
-    # test.loc[~test.x.isin(train.x.unique()), test.x.name] = np.nan
+
     for x in test:
         test.loc[~test[x].isin(train[x].unique()), test[x].name] = test.loc[:, x].mode().values[0]
-        # print(test.loc[:, x].mode())
 
 def print_never_seen_values(train, test):
     for x in test:
