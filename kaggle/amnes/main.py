@@ -256,10 +256,8 @@ grid = RandomizedSearchCV(full_pipeline, param_distributions=pg,
 
 # x_train.shape
 poli = PolynomialFeatures(degree = 2)
-# poli = PolynomialFeatures(interaction_only = True)
 x_train = poli.fit_transform(x_train)
-# x_train.shape
-# x_train.shape
+
 
 pca_transformer = PCA(n_components=1000)
 pca_transformer.fit(x_train)
