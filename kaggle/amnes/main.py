@@ -274,8 +274,6 @@ pd.DataFrame(grid.grid_scores_).sort_values("mean_validation_score")
 
 x_test = poli.transform(x_test)
 x_test = pca_transformer.transform(x_test)
-# pd.DataFrame(grid.grid_scores_)
-# pd.DataFrame(grid.grid_scores_).sort_values(by = )
 pd.DataFrame([np.e ** grid.predict(x_test), scaler_y.transform(y_test.values.reshape(-1, 1))])
 mean_squared_error(y_test, np.e ** grid.predict(x_test))
 # 2004,805,126
@@ -351,7 +349,6 @@ test_data_ready = pca_transformer.transform(test_data_ready)
 # test_data_ready
 
 
-# results = pd.DataFrame(np.e ** grid.predict(test_data_ready)).set_index(test_data.index)
 results = pd.DataFrame(scaler_y.inverse_transform(grid.predict(test_data_ready))).set_index(test_data.index)
 # results = results)
 
