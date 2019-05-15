@@ -93,13 +93,6 @@ x_train_cat.shape
 x_test_num.shape
 x_test_cat.shape
 
-# x_train_cat
-# x_test_cat
-
-
-# x_train_cat.isnull().sum().sum()
-
-np.nan
 
 num_imputer = Imputer(strategy = "median").fit(x_train_num)
 x_train_num = num_imputer.transform(x_train_num)
@@ -108,15 +101,9 @@ x_test_num = num_imputer.transform(x_test_num)
 x_train_cat = x_train_cat.fillna("None")
 x_test_cat = x_test_cat.fillna("None")
 
-# label_binarizer = LabelEncoder()
-# label_binarizer = MultiLabelBinarizer()
-
-# LabelEncoder().fit_transform(x_train_cat)
-
-
 
 label_encoders = defaultdict(LabelEncoder)
-# dir(label_encoders)
+
 
 scaler = StandardScaler(copy=True, with_mean=True, with_std=True)
 x_train_num = scaler.fit_transform(x_train_num)
