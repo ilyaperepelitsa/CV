@@ -50,7 +50,7 @@ x_train_cat = x_train_cat.fillna("None")
 x_test_cat = x_test_cat.fillna("None")
 
 label_encoders = defaultdict(LabelEncoder)
-# dir(label_encoders)
+
 
 scaler = MinMaxScaler()
 x_train_num = scaler.fit_transform(x_train_num)
@@ -113,7 +113,6 @@ test_data_num = VariableSelector(variable_type = "numeric").fit_transform(test_d
 test_data_cat = VariableSelector(variable_type = "categorical").fit_transform(test_data)
 
 
-# test_data_num = num_imputer.transform(test_data_num)
 test_data_num = test_data_num.fillna(0)
 
 
