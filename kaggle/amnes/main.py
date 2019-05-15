@@ -254,7 +254,6 @@ grid = RandomizedSearchCV(full_pipeline, param_distributions=pg,
                                         n_iter = 500)
 
 
-# x_train.shape
 poli = PolynomialFeatures(degree = 2)
 x_train = poli.fit_transform(x_train)
 
@@ -264,21 +263,8 @@ pca_transformer.fit(x_train)
 pca_transformer.explained_variance_ratio_.sum()
 x_train = pca_transformer.transform(x_train)
 
-# np.e ** np.log(y_train)
-
 scaler_y = StandardScaler(copy=True, with_mean=True, with_std=True)
 y_train = scaler_y.fit_transform(y_train.values.reshape(-1, 1))
-# y_train.values().reshape(-1, 1)
-
-
-# y_train.values.reshape(-1, 1).shape
-# x_test_num = scaler_y.transform(x_test_num)
-# y_train = np.log(y_train)
-
-
-
-# x_train
-
 
 
 grid.fit(x_train, y_train.ravel())
