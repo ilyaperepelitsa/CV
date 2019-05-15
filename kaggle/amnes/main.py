@@ -70,26 +70,18 @@ ames_data = pd.read_csv(
 x = ames_data[ames_data.columns[ames_data.columns!="SalePrice"]]
 y = ames_data["SalePrice"]
 
-# x.shape
 
 x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2, random_state=42)
 
 
 def replace_never_seen_values(train, test):
-
     for x in test:
         test.loc[~test[x].isin(train[x].unique()), test[x].name] = test.loc[:, x].mode().values[0]
 
 def print_never_seen_values(train, test):
     for x in test:
-        # print(test.loc[:, x].mode())
         print(x, test.loc[~test[x].isin(train[x].unique()), test[x].name])
 
-
-# x_train.shape
-# x_test.shape
-# y_train.shape
-# y_test.shape
 
 x_train_num = VariableSelector(variable_type = "numeric").fit_transform(x_train)
 x_train_cat = VariableSelector(variable_type = "categorical").fit_transform(x_train)
