@@ -58,7 +58,6 @@ x_test_num = scaler.transform(x_test_num)
 
 
 def replace_never_seen_values(train, test):
-    # test.loc[~test.x.isin(train.x.unique()), test.x.name] = np.nan
     for x in test:
         test.loc[~test[x].isin(train[x].unique()), test[x].name] = test.loc[:, x].mode().values[0]
 
