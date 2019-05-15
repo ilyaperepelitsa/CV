@@ -109,14 +109,9 @@ scaler = StandardScaler(copy=True, with_mean=True, with_std=True)
 x_train_num = scaler.fit_transform(x_train_num)
 x_test_num = scaler.transform(x_test_num)
 
-# [label_encoders[i].get_params() for i in label_encoders]
-# onehot_encoders = defaultdict(OneHotEncoder)
-# defaultdict([1, 2, 3])
-
 
 
 replace_never_seen_values(x_train_cat, x_test_cat)
-# print_never_seen_values(x_train_cat, x_test_cat)
 
 onehot_encoder = OneHotEncoder(categorical_features = "all", handle_unknown = "unknown")
 
